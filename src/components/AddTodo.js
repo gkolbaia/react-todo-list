@@ -32,7 +32,7 @@ export class AddTodo extends Component {
     );
   }
 }
-
+   
 AddTodo.prototypes = {
   addTodo: PropTypes.func.isRequired
 };
